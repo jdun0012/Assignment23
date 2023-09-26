@@ -1,4 +1,4 @@
-Country,City,AQI Value,AQI_Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM25 AQI Value,PM25 AQI Category,lat,lng
+Country,City,AQI Value,AQI_Category,CO AQI Value,CO_AQI_Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM25 AQI Value,PM25 AQI Category,lat,lng
 Russian Federation,Praskoveya,51,Moderate,1,Good,36,Good,0,Good,51,Moderate,44.7444,44.2031
 Brazil,Presidente Dutra,41,Good,1,Good,5,Good,1,Good,41,Good,-5.29,-44.49
 Brazil,Presidente Dutra,41,Good,1,Good,5,Good,1,Good,41,Good,-11.2958,-41.9869
